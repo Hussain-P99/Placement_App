@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RC_Placement</string>
+    <string name="add_student">Add Student</string>
+    <string name="add_comapany">Add Company</string>
+    <string name="save">Save</string>
+    <string name="company_name">Company Name</string>
+    <string name="student_name">Student Name</string>
+    <string name="no_company">No companies added yet</string>
+    <string name="company_saved">Company Saved</string>
+    <string name="student_saved">Student Saved</string>
+    <string name="no_student">No students added yet</string>
+    <string name="home_transition_name">HomeTranstionDestination</string>
+
+</resources>
